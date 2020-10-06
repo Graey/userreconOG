@@ -13,6 +13,8 @@ BUG FREE Script !!!
 ```
 Download the script and run.
 ```
+
+```
                      .
                     / V\
                   / `  /
@@ -24,3 +26,4 @@ Download the script and run.
           (      ) | |
   ________|   _/_  | |
 <__________\______)\__)
+```
