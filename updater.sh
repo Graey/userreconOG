@@ -15,7 +15,7 @@ clear
 printf "\n \e[1;92mUpdating \e[1;94mUserReconOG\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
-rm -rf UserRecon
+rm -rf userreconOG
 git clone https://github.com/Graey/userreconOG
 cd userreconOG
 chmod +x userreconOG.sh
