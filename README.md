@@ -11,7 +11,12 @@ BUG FREE Script !!!
 ![](https://github.com/Graey/userreconOG/blob/main/screenshot.png)
 ## How to use:
 ```
-Download the script and run.
+If You are using LINUX. 
+Download the script and run. 
+
+If You are using WINDOWS. 
+Download GIT, then download the script and run.
+
 ```
 
 ```
