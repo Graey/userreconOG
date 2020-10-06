@@ -9,7 +9,7 @@ banner() {
 
 
 
-printf "          UserReconOG by @Graey                                                      \n"
+printf "          UserReconOG by @Graey    @ItSsHaDoW                                                  \n"
 printf "                                                               \n"
 printf "                                                               \n"
                                                 
