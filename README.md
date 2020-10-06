@@ -16,9 +16,6 @@ A script to find usernames across over 75 social networks. This is useful if you
 ![Screenshot]()
 ## How to use:
 ```
-git clone https://github.com/Graey/userreconOG
-cd userreconOG
-chmod +x userreconOG.sh
-bash userreconOG.sh
+Download the script and run.
 ```
 
