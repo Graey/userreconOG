@@ -17,10 +17,10 @@ sleep 1.5
 cd ..
 rm -rf UserRecon
 git clone https://github.com/Graey/userreconOG
-cd UserRecon
-chmod +x userrecon.sh
+cd userreconOG
+chmod +x userreconOG.sh
 printf "\n\e[1;92mRestarting ...\n\e[0m"
-bash userrecon.sh
+bash userreconOG.sh
 cd ..
 
 }
