@@ -9,6 +9,8 @@ A script to find usernames across over 75 social networks. This is useful if you
 BUG FREE Script !!!
 ```
 ![](https://github.com/Graey/userreconOG/blob/main/screenshot.png)
+![](https://github.com/Graey/userreconOG/blob/main/screenshot1.png)
+![](https://github.com/Graey/userreconOG/blob/main/screenshot2.png)
 ## How to use:
 ```
 If You are using LINUX. 
