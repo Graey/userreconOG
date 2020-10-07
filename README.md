@@ -21,6 +21,7 @@ Download GIT, then download the script and run.
 
 ```
 
+### HELLO FROM OUR FRIEND -  
 ```
                      .
                     / V\
